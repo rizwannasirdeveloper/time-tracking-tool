@@ -20,7 +20,7 @@ MySQL database server (e.g., MySQL Workbench)
 
 **Step 1: Clone the Repository**
 Clone the repository from GitHub using the following command:
-git clone <repository_url>
+git clone https://github.com/rizwannasirdeveloper/time-tracking-tool.git
 
 **Step 2: Install Dependencies**
 Navigate to the project directory and install the required dependencies for both the server-side and client-side of the application. Run the following command:
